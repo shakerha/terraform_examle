@@ -1,0 +1,4 @@
+# Ignore file with following contents:
+.terraform
+*.tfstate
+*tfstate.backup
